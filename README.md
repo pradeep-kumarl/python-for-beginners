@@ -175,8 +175,8 @@ print(10, 13, 17, 19, 90, sep='▼', end='ended!')
 print(10, 13, 17, 19, 90, sep='|', end='\t')
 # Output: 10|13|17|19|90	
 
-# Adding (:) between numbers
-print(10, 13, 17, 19, 90, sep='|11|')
+# Adding (|) between numbers
+print(10, 13, 17, 19, 90, sep='||')
 # Output: 10|11|13|11|17|11|19|11|90
 ```
 
